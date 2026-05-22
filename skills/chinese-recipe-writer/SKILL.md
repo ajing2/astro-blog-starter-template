@@ -16,7 +16,9 @@ Writing a recipe article involves these steps:
 3. Generate English version (primary, most polished)
 4. Translate to DE/JA/FR with localization
 5. Add SEO metadata, structured data, and affiliate links
-6. Final review per checklist
+6. Deduplication and copyright check (per-section verification)
+7. SEO ranking optimization pass
+8. Final review per checklist
 
 ## Word Count Targets (SEO Sweet Spots)
 
@@ -106,6 +108,32 @@ Place affiliate links in: ingredient descriptions (brand recommendations), cooki
 - FAQ is the word count adjuster: add questions if under target, trim Story if over
 - Internal link to 2-3 other recipe articles per language version
 - All images shared across languages, but alt tags localized
+
+## Deduplication and Copyright Protection
+
+Every article must pass deduplication checks before publishing. This prevents Google penalties for duplicate content and protects against DMCA takedown risks.
+
+Key steps:
+1. Never copy-paste from reference recipes — rewrite in your own words
+2. Add unique value: personal experience, Chinese cooking terms, failure stories
+3. Verify with plagiarism tools (Copyscape/Quetext): overall similarity < 15%
+4. Use original or AI-generated images only — never save from other recipe sites
+5. Mark affiliate links with disclosure statement
+
+For the complete dedup workflow, tools, per-section similarity thresholds, and anti-DMCA guidelines, see [references/dedup-and-copyright.md](references/dedup-and-copyright.md).
+
+## SEO Ranking Optimization
+
+Beyond basic SEO metadata, apply ranking strategies to compete for Google page 1:
+
+1. **Search Intent Coverage** — answer every question a user might have about the dish
+2. **E-E-A-T Signals** — demonstrate Experience (first-person stories), Expertise (cooking science), Authority (internal linking), Trust (affiliate disclosure)
+3. **Core Web Vitals** — LCP < 2.5s, INP < 200ms, CLS < 0.1 (Astro + Cloudflare CDN handles most)
+4. **Internal Linking** — 3 types per article: same-ingredient, pairing suggestion, knowledge guide
+5. **Content Freshness** — update published articles regularly, add "Last updated" date
+6. **Avoid Penalties** — no keyword stuffing, no bulk low-quality AI content, stable publish cadence
+
+For the full SEO ranking strategy (E-E-A-T details, technical SEO, link building, monitoring metrics, and penalty avoidance), see [references/seo-ranking.md](references/seo-ranking.md).
 
 ## Quality Checklist
 
