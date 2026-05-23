@@ -200,3 +200,7 @@ dist
 
 ### Astro ###
 .astro/
+
+### IDE ###
+.idea/
+.vscode/
