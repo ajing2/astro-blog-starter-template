@@ -3,6 +3,12 @@ title: "General Tso's Chicken Recipe - Crispy, Sweet & Spicy (Better Than Takeou
 description: "Make authentic General Tso's Chicken at home with this easy recipe. Crispy deep-fried chicken tossed in a tangy, sweet-spicy sauce with dried chilies. Ready in 30 minutes!"
 pubDate: "Jun 20 2025"
 heroImage: "/images/recipes/general-tso-chicken/general-tso-chicken-hero.jpg"
+lang: "en"
+translations:
+  zh: "general-tso-chicken-zh"
+  de: "general-tso-chicken-de"
+  ja: "general-tso-chicken-ja"
+  fr: "general-tso-chicken-fr"
 ---
 
 The sizzle of chicken hitting hot oil, the sweet-spicy aroma of caramelized sauce coating each golden piece — General Tso's Chicken is the dish that made Chinese food famous across America, yet its true origins tell an even more fascinating story.
@@ -57,11 +63,17 @@ The dish later traveled to New York in the 1970s when Chef Peng opened a restaur
 
 ### Step 1: Prepare and Marinate the Chicken
 
+![Chicken legs being deboned and cut into bite-sized chunks on a wooden cutting board](/images/recipes/general-tso-chicken/step1-cutting-chicken.jpg)
+
 Wash the chicken legs thoroughly. Using a sharp knife, carefully remove the bones by cutting along the bone and scraping the meat away — you want bite-sized chunks with skin on for maximum crispiness. Cut the deboned meat into roughly 1-inch (2.5cm) pieces.
+
+![Chicken pieces being marinated with egg yolk and Shaoxing wine in a mixing bowl](/images/recipes/general-tso-chicken/step2-marinating.jpg)
 
 Place the chicken chunks in a bowl and add the egg yolk, Shaoxing wine, and a pinch of salt. Mix well with your hands, making sure every piece is evenly coated. Let it marinate for 20 minutes at room temperature. The egg yolk creates a tender base layer that helps the cornstarch adhere during frying.
 
 ### Step 2: Mix the Sauce
+
+![All sauce ingredients being combined in a small bowl - soy sauce, vinegar, sugar, water, chili oil](/images/recipes/general-tso-chicken/step3-sauce-mixing.jpg)
 
 While the chicken marinates, prepare your sauce in a small bowl. Combine the soy sauce, white vinegar, sugar, water, chili oil, and cornstarch slurry. Stir until the sugar dissolves completely. Set aside — this "all-in-one" sauce mixture (料汁, liào zhī) is what makes the final stir-fry step fast and foolproof.
 
@@ -69,9 +81,9 @@ While the chicken marinates, prepare your sauce in a small bowl. Combine the soy
 
 Cut the dried red chilies into 1-inch segments, shaking out the seeds if you prefer less heat. Mince the garlic and ginger separately. Chop the scallions finely. Have everything ready in small bowls near your stove — Chinese cooking moves fast once the wok is hot.
 
-![Chicken pieces being deep-fried to golden perfection in a traditional Chinese wok](/images/recipes/general-tso-chicken/general-tso-chicken-step-frying.jpg)
-
 ### Step 4: Coat and Deep-Fry the Chicken
+
+![Chicken pieces being deep-fried to golden perfection in a traditional Chinese wok](/images/recipes/general-tso-chicken/step4-deep-frying.jpg)
 
 Heat oil in a wok or deep pan to 350°F (175°C) — test with a wooden chopstick; when steady bubbles stream from the tip, the oil is ready.
 
@@ -83,15 +95,21 @@ Remove with a slotted spoon and drain on a wire rack or paper towels.
 
 ### Step 5: Stir-Fry the Dried Chilies
 
+![Dried red chili segments being stir-fried in a hot wok until fragrant](/images/recipes/general-tso-chicken/step5-chili-frying.jpg)
+
 Pour out all but 2 tablespoons of oil from the wok. Heat over medium-high until the oil shimmers. Add the dried chili segments and stir-fry for 30-45 seconds until fragrant and slightly darkened — you'll feel the spicy aroma hit your nose. Be careful not to burn them; burnt chilies taste bitter.
 
 ### Step 6: Add Sauce and Toss with Chicken
+
+![Crispy fried chicken being tossed in glossy dark sauce in a wok](/images/recipes/general-tso-chicken/step6-tossing-sauce.jpg)
 
 Pour in the pre-mixed sauce all at once. It will bubble vigorously. Stir constantly until the sauce thickens and turns glossy — about 30 seconds.
 
 Immediately add all the fried chicken pieces back to the wok. Toss rapidly with a spatula or by flipping the wok, ensuring every piece gets an even coating of that gorgeous, sticky sauce. The whole process from sauce to plating should take under 60 seconds to preserve the chicken's crispiness.
 
 ### Step 7: Plate and Serve
+
+![Final plated General Tso's Chicken with steamed rice, garnished with scallions and dried chilies](/images/recipes/general-tso-chicken/serving-complete.jpg)
 
 Transfer to a warm serving plate. The chicken should be glistening with sauce, studded with dried chilies and flecked with green scallion. Serve immediately while the exterior is still crackling-crisp — this dish waits for no one.
 
